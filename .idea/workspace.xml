@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b53df039-a7af-4753-9964-58e7a6a22ccd" name="Default Changelist" comment="" />
+    <list default="true" id="b53df039-a7af-4753-9964-58e7a6a22ccd" name="Default Changelist" comment="LeetCode solution of 9. Palindrome Number">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2BvaU77CVB0gbBJWCf8X4Y2RghW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,17 +37,49 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProblemSolving" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetCode.palindrome" />
+      <recent name="leetCode.twoSum" />
       <recent name="leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidPalindromeTest">
+  <component name="RunManager" selected="JUnit.PalindromeTest">
+    <configuration name="PalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem-solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeTests.PalindromeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem-solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcodeTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcodeTests.TwoSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="problem-solving" />
       <extension name="coverage">
@@ -75,6 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeTest" />
+        <item itemvalue="JUnit.TwoSumTest" />
         <item itemvalue="JUnit.ValidPalindromeTest" />
         <item itemvalue="JUnit.ValidPalindromeTest.checked_With_valid_Input_II" />
       </list>
@@ -90,37 +130,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657789024528</updated>
-      <workItem from="1657789028363" duration="1054000" />
+      <workItem from="1657789028363" duration="2368000" />
+      <workItem from="1657950466802" duration="2172000" />
+      <workItem from="1658136683911" duration="3081000" />
     </task>
+    <task id="LOCAL-00001" summary="LeetCode solution of 1. Two Sum">
+      <created>1658137894589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658137894589</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LeetCode solution of 9. Palindrome Number">
+      <created>1658139434522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658139434522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LeetCode solution of 1. Two Sum" />
+    <MESSAGE value="LeetCode solution of 9. Palindrome Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode solution of 9. Palindrome Number" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Project_Structure" timestamp="1657789048736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1657789048736" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1657789257055">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1658137349314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1657789257055" />
-    <state width="1877" height="427" key="GridCell.Tab.0.bottom" timestamp="1657790198235">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658137349314" />
+    <state x="598" y="120" key="CommitChangelistDialog2" timestamp="1658139434080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1657790198235" />
-    <state width="1877" height="427" key="GridCell.Tab.0.center" timestamp="1657790198235">
+    <state x="598" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1658139434080" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1658139356496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="427" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1657790198235" />
-    <state width="1877" height="427" key="GridCell.Tab.0.left" timestamp="1657790198235">
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658139356496" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1658136687275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="427" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1657790198235" />
-    <state width="1877" height="427" key="GridCell.Tab.0.right" timestamp="1657790198235">
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1658136687275" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1658139441650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="427" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1657790198235" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1658139441650" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1658139441650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1658139441650" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1658139441650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1658139441650" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1658139441650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1658139441650" />
+    <state x="762" y="245" key="RollbackChangesDialog" timestamp="1657950557003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="245" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1657950557003" />
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2" timestamp="1658139436818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1658139436818" />
   </component>
 </project>
